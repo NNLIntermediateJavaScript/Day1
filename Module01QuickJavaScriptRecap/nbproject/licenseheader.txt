@@ -1,0 +1,9 @@
+<#if licenseFirst??>
+${licenseFirst}
+</#if>
+${licensePrefix}FileName: TODO Add Path/FileName
+${licensePrefix}Topics:
+${licensePrefix}        TODO Add Topics
+<#if licenseLast??>
+${licenseLast}
+</#if>
